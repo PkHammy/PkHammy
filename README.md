@@ -1,52 +1,37 @@
-# 🚀 Hi, I'm Hamza  
+# 🚀 Hi, I'm Hamza
+
 **Full-Stack Developer | Python Enthusiast | Problem Solver**
 
-I am a developer focused on building scalable applications and clean back-end architecture. I enjoy turning complex problems into simple, functional code—mostly using Python, but I'm always exploring new ways to optimize the full stack.
+Also known as **Hammy** — I build practical web apps, Windows tools, and games. I enjoy turning everyday problems and personal interests into simple, useful software.
 
----
+[Portfolio](https://hammydev.com/) · [GitHub](https://github.com/PkHammy)
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
-* **Languages:** Python (Expert), Java, JavaScript
-* **Frontend:** HTML5, CSS3
-* **Database:** MySQL
-* **Core Interests:** Scalable Systems, AI/ML Exploration, Backend Logic
+- **Languages:** Python, Java, JavaScript, TypeScript
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Backend:** Flask, Express, Socket.IO
+- **Databases & Services:** MySQL, SQLite, Supabase
 
----
+### 🔭 My Projects
 
-### 📈 GitHub Analytics  
+| Project | What it does |
+| --- | --- |
+| [Manga Shelf](https://pkhammy.github.io/Manga-Collector/) | Track manga collections, manage profiles, and back up your shelves. |
+| [Undercover](https://undercover-7acj.onrender.com/) | A multiplayer imposter party game with private roles and live voting. |
+| [Hammy Keys](https://github.com/PkHammy/nuphy-Halo-65) | Remap Windows keys and shortcuts while keeping your NuPhy Halo wireless. |
+| [Save One](https://pkhammy.github.io/saveone/) | Pick a favourite game from each year, share your collection, and crown a champion. |
+| [Rider Budget](https://pkhammy.pythonanywhere.com/) | Track delivery earnings, expenses, shifts, and weekly goals. |
+| [KeyComics](https://pkhammy.github.io/hammycomic/) | Browse, search, and filter your exported comic collection. |
+| [Crimewatch UK](https://crimewatchuk.streamlit.app/) | Explore street-level crime data with interactive postcode maps. |
+| [Right Move Explorer](https://github.com/PkHammy/right-move-explorer) | A Java Swing desktop app for exploring Rightmove house price data. |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaNasir0&show_icons=true&theme=radical&hide_border=true" alt="Hamza's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaNasir0&theme=radical&hide_border=true" alt="Streak Stats" height="150" />
-</p>
+### ⚡ A Little About Me
 
----
+- Python is my go-to for backend development and automation.
+- My projects bring together manga, comics, gaming, and everyday tools.
+- Always exploring better ways to build clean, useful applications.
 
-### 🔭 Currently Working On  
+### 🤝 Let's Connect
 
-- 🛠️ Building robust Python-based applications and automation tools.  
-- 🧠 Deepening my knowledge in Data Structures and Algorithms.  
-- ☁️ Exploring Cloud technologies and security best practices.  
-- 🤝 Contributing to open-source projects.
-
----
-
-### ⚡ Quick Bits  
-
-- ☕ Coffee is my primary fuel for debugging.
-- 🐍 Python isn't just a language for me; it's my go-to tool for everything.
-- 😴 Yes, I occasionally solve bugs in my sleep.
-- 💬 Ask me about: Database design, Python frameworks, or tech collaborations.
-
----
-
-### 🤝 Let's Connect  
-
-<p align="left">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=HamzaNasir0&color=blueviolet&style=for-the-badge&abbreviated=true)
+[Portfolio](https://hammydev.com/) · [GitHub](https://github.com/PkHammy)
